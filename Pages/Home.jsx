@@ -314,17 +314,12 @@ export default function Home() {
               className="lg:col-span-3 space-y-4"
             >
               <p className="text-slate-300 leading-relaxed">
-                I'm a computer science student at <span className="text-purple-400 font-medium">New Jersey Institute of Technology</span> driven by 
-                a simple goal: building technology that <span className="text-purple-400">makes a real difference</span> in people's lives.
+                I’m a computer science student at <span className="text-purple-400 font-medium">New Jersey Institute of Technology</span> 
+                with experience building data-driven and AI-based systems.
               </p>
               <p className="text-slate-400 leading-relaxed">
-                Whether it's creating AI systems that help athletes improve their performance or tools that save 
-                students hours of tedious work, I'm drawn to projects where I can see the tangible impact of my code. 
-                The best feeling is knowing something I built actually helped someone.
-              </p>
-              <p className="text-slate-400 leading-relaxed">
-                I'm looking for opportunities to join teams working on meaningful problems — places where 
-                engineering meets purpose. When I'm not coding, you'll find me exploring NYC or diving into new technologies.
+                I’ve worked on computer vision pipelines for sports analytics and on tools that structure and analyze real-world data. 
+                I’m interested in roles where I can keep learning, contribute to solid engineering work, and build things that are actually used.
               </p>
 
               <div className="pt-4">
