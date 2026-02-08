@@ -134,6 +134,15 @@ export default function Home() {
 
   const projects = [
     {
+      title: "RoastCoach",
+      subtitle: "Real Time Movement Analysis & AI Coaching Platform",
+      description: "Developed a video analysis system to track and improve exercise form by processing footage to detect repetitions and ensure proper movement patterns. Implemented AI-driven real-time coaching using RAG, AWS S3, vector databases, and historical performance data to provide personalized feedback.",
+      tech: ["Python", "MediaPipe/OpenCV", "NumPy", "AWS S3", "Signal Processing", "AI APIs", "Vector Database"],
+      features: ["Hack@Brown Jan 2026", "Rep Detection & Form Analysis", "RAG-based AI Coaching"],
+      link: "https://devpost.com/software/roastcoach?ref_content=user-portfolio&ref_feature=in_progress",
+      gradient: "from-emerald-600 via-teal-600 to-cyan-600"
+    },
+    {
       title: "jadeinc.net",
       subtitle: "Salon Management System",
       description: "Full-stack booking platform with user onboarding, scheduling, payments, messaging, reviews, and admin analytics.",
