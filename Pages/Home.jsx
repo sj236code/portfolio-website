@@ -50,6 +50,7 @@ export default function Home() {
     document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
   };
 
+  // TechStack
   const techStack = {
     languages: {
       icon: Code,
